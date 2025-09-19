@@ -42,8 +42,6 @@ EDA: Churn distribution, tenure groups, contract type
 
 ML Models: Logistic Regression, Random Forest, XGBoost
 
-Visualization: Feature importance plots, churn trends
-
 📊 Workflow
 
 Data Cleaning
@@ -112,7 +110,7 @@ Focus retention efforts on new customers (<1 year).
 
 🚀 How to Run
 # Clone repo
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/Ayouuuub/customer-churn-prediction.git
 
 # Install dependencies
 pip install -r requirements.txt
